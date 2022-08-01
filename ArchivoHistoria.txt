@@ -1,6 +1,7 @@
 Este es un archivo de testeo para el curso PROFESIONAL DE GIT Y GITHUB Instruido
 por FREDDY VEGA en la plataforma PLATZI
 
-CURSO INICIADO EN AGOSTO 2022
 
-Hablaremos de la vida y su obra maestra de JUAN SEBASTIAN RIOS UBEDA
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum maximus lectus eu cursus. Suspendisse sed accumsan nunc. Integer tortor nibh, lacinia in viverra ut, pharetra non sapien. Maecenas vestibulum, enim id varius semper, mi lacus viverra dui, non molestie ligula tellus in erat. Aenean vitae libero sodales, consequat velit ut, dictum mauris. Fusce vel rutrum sapien. Sed fermentum ut justo sit amet vehicula. Maecenas venenatis est id arcu pellentesque congue. Proin consequat sapien est, ut laoreet dolor sollicitudin ut. Aenean sit amet lacus at est interdum dictum. Morbi gravida nunc eu consequat vulputate.
+
+Nos enfocaremos en su vida laboral
